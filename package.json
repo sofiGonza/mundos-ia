@@ -1,0 +1,23 @@
+{
+  "name": "mundos-ia",
+  "version": "1.0.0",
+  "description": "Programa de consola que genera bocetos visuales de mundos imaginarios: recibe una situación, un mundo y 5 colores, pide una descripción a un modelo de lenguaje gratuito y genera la imagen con un modelo de imágenes gratuito.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "ia",
+    "imagenes",
+    "mundos",
+    "imaginarios",
+    "nodejs",
+    "taller"
+  ],
+  "author": "Sofia",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "object-hash": "^3.0.0"
+  }
+}
