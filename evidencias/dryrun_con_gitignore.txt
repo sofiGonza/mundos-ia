@@ -1,0 +1,39 @@
+npm warn gitignore-fallback No .npmignore file found, using .gitignore for file exclusion. Consider creating a .npmignore file to explicitly control published files.
+npm notice
+npm notice 📦  mundos-ia@1.0.0
+npm notice Tarball Contents
+npm notice 564B .env.example
+npm notice 7.6kB PROMPT.md
+npm notice 7.9kB README.md
+npm notice 166B evidencias/dryrun_con_gitignore.txt
+npm notice 413B evidencias/ejecucion_mundo1.txt
+npm notice 439B evidencias/ejecucion_mundo2.txt
+npm notice 325B evidencias/errores/error1_clave_invalida.txt
+npm notice 347B evidencias/errores/error2_modelo_inexistente.txt
+npm notice 315B evidencias/errores/error3_sin_conexion.txt
+npm notice 0B evidencias/git_ls_files.txt
+npm notice 53.7kB evidencias/mundos/mundo1_aeropolis.jpg
+npm notice 297B evidencias/mundos/mundo1_aeropolis.json
+npm notice 726B evidencias/mundos/mundo1_aeropolis.txt
+npm notice 56.3kB evidencias/mundos/mundo2_cristalia.jpg
+npm notice 312B evidencias/mundos/mundo2_cristalia.json
+npm notice 744B evidencias/mundos/mundo2_cristalia.txt
+npm notice 441B evidencias/reutilizacion_mundo1.txt
+npm notice 456B evidencias/reutilizacion_mundo2.txt
+npm notice 596B package.json
+npm notice 3.6kB src/imagen.js
+npm notice 3.5kB src/index.js
+npm notice 2.9kB src/mundo.js
+npm notice 3.5kB src/texto.js
+npm notice Tarball Details
+npm notice name: mundos-ia
+npm notice version: 1.0.0
+npm notice filename: mundos-ia-1.0.0.tgz
+npm notice package size: 119.5 kB
+npm notice unpacked size: 145.3 kB
+npm notice shasum: ff2b2caaeb8f9bf8cd5a366536a06bb795a98c15
+npm notice integrity: sha512-vU/ogEzq7YjWi[...]9g2HN3zJGCcUQ==
+npm notice total files: 23
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and default access (dry-run)
++ mundos-ia@1.0.0

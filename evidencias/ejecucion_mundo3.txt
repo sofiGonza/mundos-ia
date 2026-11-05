@@ -1,0 +1,6 @@
+npm notice run mundos-ia@1.0.0 start
+npm notice run node src/index.js Un desierto de sal guarda barcos hundidos Salaria, un mar seco con navíos enterrados en la arena blanca turquesa coral beige gris cobre
+Paso 1: mundo guardado en data/mundo_c5a287b3.json
+Paso 2: descripción guardada en descripciones/mundo_c5a287b3.txt
+Paso 3: imagen guardada en imagenes/mundo_c5a287b3.jpg
+Listo. Revisa la carpeta imagenes/

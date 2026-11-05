@@ -1,0 +1,4 @@
+npm notice run mundos-ia@1.0.0 start
+npm notice run node src/index.js Un bosque de cristal crece bajo una lluvia de meteoritos Cristalia, un valle donde los árboles son de vidrio que canta al viento cian esmeralda plata rosa negro
+Paso 1: mundo guardado en data/mundo_cce34788.json
+Error: El modelo o la URL no existen. Revisa tu configuración.

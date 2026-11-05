@@ -1,0 +1,5 @@
+npm notice run mundos-ia@1.0.0 start
+npm notice run node src/index.js Una tormenta eléctrica amenaza la ciudad flotante Aerópolis, un archipiélago de islas que flotan sobre las nubes rojo azul verde dorado violeta
+Paso 1: mundo guardado en data/mundo_cba86145.json
+Paso 2: la descripción ya existía, no se llamó al modelo de texto.
+Error: El servicio respondió con el estado 503. Revisa tu configuración.
